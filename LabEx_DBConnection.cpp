@@ -1,0 +1,1 @@
+// write a program to create a database connection to SQL server in main methos. create a Student Object. Create a findAllStudent method to fetch records for all student. Create saveStudent method to save records of one student in the database. Call findAllStudent and saveStudent method from main method.

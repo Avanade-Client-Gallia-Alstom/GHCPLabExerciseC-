@@ -1,0 +1,1 @@
+// write a method to validate a credit card number using regEx and call the method from main method.
