@@ -75,3 +75,22 @@ int main() {
 
     return 0;
 }
+// Sample Input/Output:
+// Enter the number of vertices: 9
+// Enter the number of edges: 14
+// Enter the edges and their weights:
+// 0 1 4
+// 0 7 8
+// 1 2 8
+// 1 7 11
+// 2 3 7
+// 2 8 2
+// 2 5 4
+// 3 4 9
+// 3 5 14
+// 4 5 10
+// output
+// 4 6 2
+// 6 7 1
+// 7 8 7
+// 8 2 6
