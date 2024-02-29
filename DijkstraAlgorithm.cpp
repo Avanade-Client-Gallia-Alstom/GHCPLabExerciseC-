@@ -89,8 +89,20 @@ int main() {
 // 3 4 9
 // 3 5 14
 // 4 5 10
-// output
 // 4 6 2
 // 6 7 1
 // 7 8 7
 // 8 2 6
+// Enter the source vertex: 0
+// Shortest distances from source 0:
+// Vertex 0: 0
+// Vertex 1: 4
+// Vertex 2: 12
+// Vertex 3: 19
+// Vertex 4: 21
+// Vertex 5: 16
+// Vertex 6: 9
+// Vertex 7: 8
+// Vertex 8: 14
+// Time Complexity: O((V + E) * log V)
+// Space Complexity: O(V + E)
